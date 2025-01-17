@@ -1,0 +1,24 @@
+/* src/Editor.css */
+.monitor {
+    position: relative;
+    border: 2px solid #4A5568;
+    border-radius: 10px;
+    margin: 20px;
+    width: 80%;
+    height: 83.33%;
+  }
+  
+  .monitor-buttons {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .monitor-controls {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+  }
+  
